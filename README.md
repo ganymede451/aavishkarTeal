@@ -1,2 +1,0 @@
-# aavishkarTeal
-teal version
