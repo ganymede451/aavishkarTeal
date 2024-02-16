@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: faqs	</title>
-	<atom:link href="/faqs/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="https://ganymede451.github.io/aavishkarTeal/faqs/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ganymede451.github.io/aavishkarTeal</link>
 	<description></description>
 	<lastBuildDate>Wed, 18 Oct 2023 03:28:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
